@@ -1,0 +1,14 @@
+[
+  {
+    "name": "我的文件",
+    "url": "/user/myfile",
+    "iconType": "folder",
+    "children": []
+  },
+  {
+    "name": "回收站",
+    "url": "/user/recyclebin",
+    "iconType": "delete",
+    "children": []
+  }
+]

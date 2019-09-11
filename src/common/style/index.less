@@ -1,0 +1,69 @@
+.header-text {
+    color: #333333;
+    font-size: 0.3rem;
+    font-weight: bold;
+}
+.user-icon-wrap {
+  padding-left: 0.54rem;
+  padding-right: 0.31rem;
+  .user-icon {
+    width: 0.45rem;
+    height: 0.45rem;
+    overflow: hidden;
+    border-radius: 0.23rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+}
+.head-input-wrap {
+  input {
+    border-radius: 0.23rem;
+  }
+}
+.layout-sider {
+  .sider-logo {
+    width: 0.79rem;
+    transition: all 150ms ease-in-out;
+  }
+  .sider-foot {
+    padding: 20px;
+    padding-bottom: 80px;
+    .usage {
+      padding-bottom: 10px;
+      .usage-text {
+        font-size: 0.14rem;
+        color: #707070;
+      }
+      .usage-value {
+        padding-left: 8px;
+        font-size: 0.30rem;
+        color: #007AF5;
+        font-weight: 700;
+        text-align: center;
+        flex: 1;
+      }
+    }
+    .foot-intro {
+      border-top: 1px solid #707070;
+      padding-top: 10px;
+
+    }
+  }
+
+  &.collapsed {
+    .sider-logo {
+      width: 0.5rem;
+    }
+    .sider-foot {
+      display: none;
+    }
+  }
+}
+
+.loading-wrapper{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate3d(-50%, -50%, 0);
+}

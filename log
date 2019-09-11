@@ -1,0 +1,231 @@
+[33mcommit bb78d8d42f558762b1034a2500b769f2e69efc5a[m[33m ([m[1;36mHEAD -> [m[1;32mv0.1.0[m[33m, [m[1;31morigin/v0.1.0[m[33m)[m
+Merge: 51a1f7e ecde74f
+Author: 86150 <593256354@qq.com>
+Date:   Fri Aug 9 17:24:10 2019 +0800
+
+    Merge branch 'v0.1.0' of code.aliyun.com:ForceUp/forceup-front into v0.1.0
+
+[33mcommit 51a1f7ee9b331493f9a9ca6d544db6c2db49b21d[m
+Author: 86150 <593256354@qq.com>
+Date:   Fri Aug 9 17:23:58 2019 +0800
+
+    文件列表和回收站checkbox点击判断
+
+[33mcommit ecde74fb5321fd4533d58a715ac64540f9dda339[m
+Merge: 76bf288 7d811a5
+Author: lifeng <beeleelee@outlook.com>
+Date:   Fri Aug 9 13:42:07 2019 +0800
+
+    Merge branch 'v0.1.0' of code.aliyun.com:ForceUp/forceup-front into v0.1.0
+
+[33mcommit 76bf288fd891475f76f72890c5c7e742aae4ecec[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Fri Aug 9 13:41:58 2019 +0800
+
+    gitignore忽略.vscode
+
+[33mcommit 7d811a55be859b030688a4d99d9e9110b82a18f6[m
+Merge: 7c4241c 4fd5088
+Author: 86150 <593256354@qq.com>
+Date:   Fri Aug 9 10:34:11 2019 +0800
+
+    Merge branch 'v0.1.0' of code.aliyun.com:ForceUp/forceup-front into v0.1.0
+
+[33mcommit 7c4241ce13110bd6d57c575b294749c71673a8c9[m
+Author: 86150 <593256354@qq.com>
+Date:   Fri Aug 9 10:34:01 2019 +0800
+
+    登录页面的修改
+
+[33mcommit 4fd5088f706db69bd21b9125e5c455869656810b[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Fri Aug 9 10:32:17 2019 +0800
+
+    菜单底部样式
+
+[33mcommit e92e17a9db7152199f11ef2d46137373545ac444[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Fri Aug 9 09:30:39 2019 +0800
+
+    左侧菜单顶部logo过渡效果
+
+[33mcommit a0a4c8e1cdb9e8a09a8bf67cd0eee9f7bd60df8b[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Thu Aug 8 18:55:01 2019 +0800
+
+    顶部搜索框和默认图像
+
+[33mcommit 13f8875e2b18525c060f814728b8af537395686f[m
+Merge: 9055a41 7912aee
+Author: 86150 <593256354@qq.com>
+Date:   Thu Aug 8 18:35:39 2019 +0800
+
+    Merge remote-tracking branch 'origin/v0.1.0' into v0.1.0
+
+[33mcommit 9055a418dccd586ae72d4b31b48055796af60126[m
+Author: 86150 <593256354@qq.com>
+Date:   Thu Aug 8 18:35:27 2019 +0800
+
+    修改登录图片大小问题
+
+[33mcommit 7912aeeb724f29f15cfece7aae1b94b8d9eb627a[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Thu Aug 8 15:37:17 2019 +0800
+
+    logo图片缩放比例调校
+
+[33mcommit 60c5250247e827eb9b7a0562354e92c8caa96d39[m
+Merge: 545255a 72d22bf
+Author: 86150 <593256354@qq.com>
+Date:   Thu Aug 8 15:32:57 2019 +0800
+
+    Merge remote-tracking branch 'origin/v0.1.0' into v0.1.0
+
+[33mcommit 545255a06ca350c2ed2af18e3a55e1f06f37e4b3[m
+Author: 86150 <593256354@qq.com>
+Date:   Thu Aug 8 15:32:43 2019 +0800
+
+    leftsidebar图片点击问题
+
+[33mcommit 72d22bfb8d3d07f597a3bab99ce87123dd88951d[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Thu Aug 8 15:32:18 2019 +0800
+
+    菜单添加icon
+
+[33mcommit c1e553e392922a42debbb7fc260806edbb3dd933[m
+Merge: 03caa84 b33c9b3
+Author: 86150 <593256354@qq.com>
+Date:   Thu Aug 8 15:16:18 2019 +0800
+
+    Merge remote-tracking branch 'origin/v0.1.0' into v0.1.0
+
+[33mcommit 03caa84b3bedb4131234670b23de3b99bcd60675[m
+Author: 86150 <593256354@qq.com>
+Date:   Thu Aug 8 15:16:04 2019 +0800
+
+    文件列表页面
+
+[33mcommit b33c9b3c4f5385ba96a86a6f6f3dff0deb6a6278[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Thu Aug 8 13:41:07 2019 +0800
+
+    菜单的初步配置
+
+[33mcommit 6203f35a4721dd63ea6fdef39cdaba63fa016431[m
+Merge: 0aa8865 a4afc36
+Author: lifeng <beeleelee@outlook.com>
+Date:   Thu Aug 8 11:38:58 2019 +0800
+
+    Merge branch 'v0.1.0' of code.aliyun.com:ForceUp/forceup-front into v0.1.0
+
+[33mcommit 0aa88654d6b36684cc1c36c96a3a5ca164119591[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Thu Aug 8 11:38:56 2019 +0800
+
+    Layout 样式调整
+
+[33mcommit a4afc3635439b61c54c86c1a8d224b8764719372[m
+Merge: b6b7bc7 d09cc6c
+Author: 86150 <593256354@qq.com>
+Date:   Thu Aug 8 11:38:19 2019 +0800
+
+    Merge remote-tracking branch 'origin/v0.1.0' into v0.1.0
+
+[33mcommit b6b7bc7e624952faf19affa124440fae76657220[m
+Author: 86150 <593256354@qq.com>
+Date:   Thu Aug 8 11:38:05 2019 +0800
+
+    login页面大致完成
+
+[33mcommit d09cc6ca9d54b5417efa368a73e8b82e935ddfe2[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Thu Aug 8 11:05:02 2019 +0800
+
+    如果签名错误，另外2次使用不同后缀尝试签名
+
+[33mcommit 0b0d4966c3292db1fde91919b96d9fdf1e56031b[m
+Merge: c385507 91551c4
+Author: lifeng <beeleelee@outlook.com>
+Date:   Thu Aug 8 09:02:18 2019 +0800
+
+    Merge branch 'v0.1.0' of code.aliyun.com:ForceUp/forceup-front into v0.1.0
+
+[33mcommit c3855079b61b2d5e98152570733e12a250079935[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Thu Aug 8 09:02:14 2019 +0800
+
+    scaleBy
+
+[33mcommit 91551c4e02fc62235c6113b82396b9189306334b[m
+Merge: 86627b1 75770ea
+Author: 86150 <593256354@qq.com>
+Date:   Thu Aug 8 09:01:49 2019 +0800
+
+    Merge remote-tracking branch 'origin/v0.1.0' into v0.1.0
+
+[33mcommit 86627b1d763b016b3cb5140214de3fc3a8689f9c[m
+Author: 86150 <593256354@qq.com>
+Date:   Thu Aug 8 09:01:31 2019 +0800
+
+    login页面
+
+[33mcommit 75770ea2942727a3179e6f97755964722eba6fc1[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Wed Aug 7 18:31:05 2019 +0800
+
+    增加commonReducer,支持decorator
+
+[33mcommit 91549b4c4dcec63d4ce1da796060ea857d55cd07[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: 86150 <593256354@qq.com>
+Date:   Wed Aug 7 16:52:21 2019 +0800
+
+    修改gitignor
+
+[33mcommit 8794a8281ef5a75e685ee847d76b3d6d26280f38[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Wed Aug 7 16:39:10 2019 +0800
+
+    样式调整
+
+[33mcommit 4be95ff6567fbe4699e47d595027cd55762ee154[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Wed Aug 7 16:38:10 2019 +0800
+
+    添加布局
+
+[33mcommit 09b435080a85d47a799f5e14787e876a02b56d40[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Wed Aug 7 15:31:39 2019 +0800
+
+    样例代码分割
+
+[33mcommit 60d57c2f47c01c685991278fe06dfbb6d2b6d9d6[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Wed Aug 7 15:25:04 2019 +0800
+
+    添加Auth组件
+
+[33mcommit 37f16859b5617d9e73595cc8f616b60d315cc361[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Wed Aug 7 14:52:15 2019 +0800
+
+    添加Pending组件
+
+[33mcommit 183398702010509fbfd3ace4f02f1c16af192ba4[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Wed Aug 7 14:40:58 2019 +0800
+
+    antd国际化配置
+
+[33mcommit 353dfefca7a64f779ce7f3f310dee292cfafd4a2[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Wed Aug 7 14:07:46 2019 +0800
+
+    配置webpack便捷引用
+
+[33mcommit 328232c242c050409cdef092814f159277f6fb47[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: lifeng <beeleelee@outlook.com>
+Date:   Wed Aug 7 13:36:31 2019 +0800
+
+    初始提交

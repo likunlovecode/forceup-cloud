@@ -1,0 +1,44 @@
+[
+  {
+    "name": "文件管理",
+    "iconType": "folder",
+    "children": [
+      {
+        "name": "文件管理",
+        "url": "/admin/filemanage/file",
+        "iconType": "folder"
+      },
+      {
+        "name": "回收站",
+        "url": "/admin/filemanage/recycle",
+        "iconType": "delete"
+      }
+    ]
+  },
+  {
+    "name": "用户管理",
+    "url":"/admin/usermanage",
+    "iconType": "user"
+  },
+  {
+    "name": "费用管理",
+    "iconType": "user",
+    "children": [
+      {
+        "name": "充值记录",
+        "url": "/admin/consumption/rechargerecord",
+        "iconType": "github"
+      },
+      {
+        "name": "消费记录",
+        "url": "/admin/consumption/costrecord",
+        "iconType": "chrome"
+      },
+      {
+        "name": "FU设置",
+        "url": "/admin/consumption/fuset",
+        "iconType": "ie"
+      }
+    ]
+  }
+]
